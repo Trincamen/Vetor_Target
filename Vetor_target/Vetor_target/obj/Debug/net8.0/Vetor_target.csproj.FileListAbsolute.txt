@@ -1,0 +1,14 @@
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\bin\Debug\net8.0\Vetor_target.exe
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\bin\Debug\net8.0\Vetor_target.deps.json
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\bin\Debug\net8.0\Vetor_target.runtimeconfig.json
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\bin\Debug\net8.0\Vetor_target.dll
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\bin\Debug\net8.0\Vetor_target.pdb
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.AssemblyInfoInputs.cache
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.AssemblyInfo.cs
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.csproj.CoreCompileInputs.cache
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.dll
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\refint\Vetor_target.dll
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.pdb
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\Vetor_target.genruntimeconfig.cache
+C:\Users\theread\source\repos\Vetor_target\Vetor_target\obj\Debug\net8.0\ref\Vetor_target.dll
